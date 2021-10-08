@@ -1,2 +1,2 @@
 # pythonProject
-用python做的一些数据分析
+film.text and main.py 电影数据分析
